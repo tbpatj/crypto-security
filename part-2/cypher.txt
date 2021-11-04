@@ -1,0 +1,28 @@
+abcdefghijklmnopqrstuvwxyz! ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+
+//alphabetsoup ordered and doubles removed, CAPS version is reversed
+    abehlopstucdfgijkmnqrvwxyz! ZYXWVRQNMKJIGFDCUOSTEBHPLA
+//take alphabets, then every other caps and small case, until you have two of both intertwined
+abehlopstucdfgijkmnqrvwxyz! ZYXWVRQNMKJIGFDCUOSTEBHPLA
+abehlopstucdfgijkmnqrvwxyz!
+ ZYXWVRQNMKJIGFDCUOSTEBHPLA
+key           = abehlopstucdfgijkmnqrvwxyz! ZYXWVRQNMKJIGFDCUOSTEBHPLA
+correct order = abcdefghijklmnopqrstuvwxyz! ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+aBcDeFgHiJkLmNoPqRsTuVwXyZ !AbCdEfGhIjKlMnOpQrStUvWxYz
+
+//then apply alphabetsoup to lowercase, reverse and uppercase the same string, to get a caps PUOSAHPLA
+alphbetsoucdfgijkmnqrvwxyz! ZYXWVRQNMKJIGFDCUOSTEBHPLA
+
+
+alphbetsou
+alphbetsoucdfgijkmnqrvwxyz
+
+
+
+
+
+
+shift all characters right by 3 chars
+
